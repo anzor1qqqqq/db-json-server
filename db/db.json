@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "ANZOR SHADZHE121212",
+      "email": "mashina-tank@mail.ru",
+      "children": false,
+      "permissions": false,
+      "id": 1
+    },
+    {
+      "name": "ANZOR SHADZHE",
+      "email": "mashina-tank@mail.ru",
+      "children": true,
+      "permissions": false,
+      "id": 2
+    },
+    {
+      "name": "ANZOR SHADZHE22",
+      "email": "qutum.14@yandex",
+      "children": false,
+      "permissions": false,
+      "id": 3
+    },
+    {
+      "name": "ANZOR SHADZHE",
+      "email": "mashina-tank@mail.ru",
+      "children": false,
+      "permissions": false,
+      "id": 4
+    },
+    {
+      "name": "ANZOR SHADZHE",
+      "email": "quantum.14@yandex.ru",
+      "children": false,
+      "permissions": false,
+      "id": 5
+    }
+  ]
+}
